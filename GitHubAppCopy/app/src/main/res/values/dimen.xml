@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="description_body">24sp</dimen>
+    <dimen name="row">25sp</dimen>
+    <dimen name="button">15sp</dimen>
+    <dimen name="description_title">27sp</dimen>
+</resources>

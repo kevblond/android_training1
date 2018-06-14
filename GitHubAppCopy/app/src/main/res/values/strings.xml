@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="error_load_data">Erreur dans le chargement des données</string>
+    <string name="error">Erreur</string>
+    <string name="error_login">Utilisateur inexistant</string>
+    <string name="error_request">nombre de requête maximum excédé</string>
+    <string name="error_network">Problème de connection</string>
+    <string name="error_empty">l\'Utilisateur ne possède pas de repositorie</string>
+    <string name="back">Retour</string>
+    <string name="edit_user_name">Utilisateur GitHub</string>
+    <string name="validate">Rechercher</string>
+    <string name="avatar">Avatar</string>
+    <string name="description_title">Description :</string>
+</resources>
