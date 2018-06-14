@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">5asecVisu</string>
+    <string name="home_balance_detail">Plus de détails</string>
+    <string name="home_order_planned">prévue</string>
+    <string name="home_bottom_detail">Un pressing ou un problème à nous signaler ?</string>
+    <string name="home_bottom_contact">Nous contacter</string>
+    <string name="home_bottom_search">rechercher un pressing</string>
+    <string name="home_adress_open">ouvert</string>
+    <string name="home_adress_close">fermé</string>
+    <string name="home_order_state_in_progress">En cours</string>
+    <string name="home_order_state_received">reçu</string>
+    <string name="home_order_top">prevue</string>
+    <string name="home_balance_title">solde</string>
+    <string name="home_balance_country_UE">UE</string>
+    <string name="home_balance_date">Valable jusqu\'au</string>
+    <string name="home_disconnect">Déconnexion</string>
+    <string name="profil_close">Fermer</string>
+    <string name="profil_title">Votre profil</string>
+    <string name="profil_full_name">Votre prénom et nom</string>
+    <string name="profil_email">Votre e-mail</string>
+    <string name="profil_phone">Téléphone</string>
+    <string name="profil_information">Vos informations</string>
+    <string name="profil_preference">Configurez vos préférences de notifications</string>
+    <string name="profil_alerte">Vos Alertes</string>
+    <string name="profil_notification">Type de notification</string>
+    <string name="profil_terminate">Terminer</string>
+    <string name="history_item_detail_ticket">Ticket</string>
+    <string name="history_item_detail_shop">Magasin N°</string>
+    <string name="history_recycler_histories_title">Historique</string>
+    <string name="history_recycler_price_title">Liste de prix</string>
+</resources>

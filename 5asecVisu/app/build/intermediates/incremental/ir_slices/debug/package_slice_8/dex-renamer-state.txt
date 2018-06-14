@@ -1,0 +1,4 @@
+#Thu May 17 09:54:05 CEST 2018
+base.0=/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/transforms/dexMerger/debug/94
+path.0=classes.dex
+renamed.0=classes.dex

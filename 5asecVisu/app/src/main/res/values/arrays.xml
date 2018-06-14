@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notification_array">
+        <item>SMS + pastille dans l\'app</item>
+        <item>SMS</item>
+        <item>Pastille dans l\'app</item>
+        <item>aucune</item>
+    </string-array>
+</resources>

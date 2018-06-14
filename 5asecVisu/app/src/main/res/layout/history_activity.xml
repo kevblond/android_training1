@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+
+    <!--1part-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/home_graph"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="25dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/graph" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="25dp"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/home_balance_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="25dp"
+                android:text="@string/home_balance_title"
+                android:textAppearance="@style/history_balance_title" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/home_balance_value"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginStart="10dp"
+                    android:textAppearance="@style/home_balance_value"
+                    tools:text="175"/>
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/home_balance_country"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textAppearance="@style/home_balance_country"
+                    tools:text="UE" />
+            </LinearLayout>
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/home_balance_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="25dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginStart="10dp"
+                android:textAppearance="@style/home_balance_date"
+                tools:text="Valable jusqu'au 23.11.2017"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--2part-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <android.support.design.widget.TabLayout
+            android:id="@+id/history_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabMode="fixed"
+            app:tabSelectedTextColor="@color/white_light2"
+            app:tabTextAppearance="@style/history_title"
+            app:tabTextColor="@color/silver" />
+    </LinearLayout>
+
+    <!--3part-->
+    <!--fragment-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/history_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--4part-->
+    <!--<android.support.v7.widget.AppCompatTextView-->
+        <!--android:id="@+id/history_bottom_contact"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:layout_marginBottom="20dp"-->
+        <!--android:layout_marginEnd="20dp"-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:layout_marginRight="20dp"-->
+        <!--android:layout_marginStart="20dp"-->
+        <!--android:layout_marginTop="50dp"-->
+        <!--android:drawableTop="@drawable/contact"-->
+        <!--android:gravity="center"-->
+        <!--android:text="@string/home_bottom_contact"-->
+        <!--android:textAppearance="@style/home_bottom_contact" />-->
+
+</LinearLayout>

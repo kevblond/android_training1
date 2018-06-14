@@ -1,0 +1,186 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimary</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <!--<item name="android:textColorPrimary">@color/white</item>-->
+        <!--<item name="android:windowBackground">@color/colorPrimary</item>-->
+    <!--</style>-->
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light">
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Material Theme -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:statusBarColor" tools:targetApi="21">@color/colorPrimary</item>
+        <item name="android:windowDrawsSystemBarBackgrounds" tools:targetApi="21">true</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+
+    </style>
+
+    <style name="home_balance_title">
+        <item name="android:textSize">@dimen/home_balance</item>
+        <item name="android:textColor">@color/white_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="home_balance_value">
+        <item name="android:textSize">@dimen/home_balance_value</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="home_balance_country">
+        <item name="android:textSize">@dimen/home_balance_value</item>
+        <item name="android:textColor">@color/white_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="home_balance_date">
+        <item name="android:textSize">@dimen/home_balance_detail</item>
+        <item name="android:textColor">@color/white_light</item>
+    </style>
+    <style name="home_balance_button">
+        <item name="android:textSize">@dimen/home_balance_detail</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="home_order_top">
+        <item name="android:textSize">@dimen/home_order_normal</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="home_order_date">
+        <item name="android:textSize">@dimen/home_order_date</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="home_order_state">
+        <item name="android:textSize">@dimen/home_order_state</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="home_adress_detail1">
+        <item name="android:textSize">@dimen/home_adress_detail</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="home_adress_detail2">
+        <item name="android:textSize">@dimen/home_adress_detail</item>
+        <item name="android:textColor">@color/black_light</item>
+    </style>
+    <style name="home_adress_detail3">
+        <item name="android:textSize">@dimen/home_adress_detail</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="home_adress_detail4">
+        <item name="android:textSize">@dimen/home_adress_detail</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="home_adress_open">
+        <item name="android:textSize">@dimen/home_adress_detail</item>
+        <item name="android:textColor">@color/green_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>>
+    <style name="home_bottom_button">
+        <item name="android:textSize">@dimen/home_bottom_button</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="home_bottom_detail">
+        <item name="android:textSize">@dimen/home_bottom_button</item>
+        <item name="android:textColor">@color/silver</item>
+    </style>
+    <style name="home_bottom_contact">
+        <item name="android:textSize">@dimen/home_bottom_button</item>
+        <item name="android:textColor">@color/white_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="profil_title">
+        <item name="android:textSize">@dimen/profil_title</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="HintText" parent="TextAppearance.Design.Hint">
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">@dimen/profil_hint</item>
+    </style>
+    <style name="profil_alerte">
+        <item name="android:textSize">@dimen/profil_title</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="profil_button">
+        <item name="android:textSize">@dimen/profil_button</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="ThemeUnderlined">
+        <item name="colorAccent">@color/orange</item>
+        <item name="colorControlNormal">@color/orange</item>
+    </style>
+    <style name="history_title">
+        <item name="android:textSize">@dimen/history_title</item>
+        <item name="android:textColor">@color/silver</item>
+    </style>
+    <style name="history_item_date">
+        <item name="android:textSize">@dimen/history_item_date</item>
+        <item name="android:textColor">@color/white_light2</item>
+    </style>
+    <style name="history_item_location">
+        <item name="android:textSize">@dimen/history_item_location</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="history_item_solde">
+        <item name="android:textSize">@dimen/history_item_solde</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="history_item_country">
+        <item name="android:textSize">@dimen/history_item_country</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="history_item_detail_name">
+        <item name="android:textSize">@dimen/history_item_detail_name</item>
+        <item name="android:textColor">@color/black_light</item>
+    </style>
+    <style name="history_item_detail_country">
+        <item name="android:textSize">@dimen/history_item_detail_country</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="history_item_detail_solde">
+        <item name="android:textSize">@dimen/history_item_detail_solde</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="history_item_detail_ticket">
+        <item name="android:textSize">@dimen/history_item_detail_ticket</item>
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="history_item_detail_shop">
+        <item name="android:textSize">@dimen/history_item_detail_shop</item>
+        <item name="android:textColor">@color/black_light</item>
+    </style>
+    <style name="history_balance_title">
+        <item name="android:textSize">@dimen/history_balance_title</item>
+        <item name="android:textColor">@color/white_light</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>

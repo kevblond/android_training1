@@ -1,0 +1,13 @@
+#Thu May 17 09:54:05 CEST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/transforms/dexMerger/debug/99
+base.2=/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/transforms/dexMerger/debug/100
+base.1=/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/transforms/dexMerger/debug/97
+base.0=/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/transforms/dexMerger/debug/98
