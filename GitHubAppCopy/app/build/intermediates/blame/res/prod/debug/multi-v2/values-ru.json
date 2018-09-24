@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values-ru/values-ru.xml",
+            "outputFile": "/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values-ru/values-ru.xml",
             "map": [
                 {
                     "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3b6a0d0705e72436b73592ac63a799b6/res/values-ru/values-ru.xml",

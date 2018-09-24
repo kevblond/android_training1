@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "5,9,4,2,3,8,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "199,356,153,55,102,317,239,277",
+                        "endColumns": "39,45,45,46,50,38,37,39",
+                        "endOffsets": "234,397,194,97,148,351,272,312"
+                    },
+                    "to": {
+                        "startLines": "110,111,120,121,122,139,165,178",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "5637,5677,6364,6410,6457,7620,9275,10131",
+                        "endColumns": "39,45,45,46,50,38,37,39",
+                        "endOffsets": "5672,5718,6405,6452,6503,7654,9308,10166"
+                    }
+                },
                 {
                     "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4675b80bf57b1fcb23ad839615368a4b/res/values/values.xml",
                     "from": {
@@ -42,24 +59,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/dimen.xml",
-                    "from": {
-                        "startLines": "4,2,5,3",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "138,55,176,103",
-                        "endColumns": "37,47,48,34",
-                        "endOffsets": "171,98,220,133"
-                    },
-                    "to": {
-                        "startLines": "623,629,630,699",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "54762,55141,55189,59768",
-                        "endColumns": "37,47,48,34",
-                        "endOffsets": "54795,55184,55233,59798"
-                    }
-                },
-                {
-                    "source": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/strings.xml",
+                    "source": "/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1,11,8,12,9,3,7,2,4,6,5,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -76,20 +76,20 @@
                     }
                 },
                 {
-                    "source": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/colors.xml",
+                    "source": "/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/dimen.xml",
                     "from": {
-                        "startLines": "5,9,4,2,3,8,6,7",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "199,356,153,55,102,317,239,277",
-                        "endColumns": "39,45,45,46,50,38,37,39",
-                        "endOffsets": "234,397,194,97,148,351,272,312"
+                        "startLines": "4,2,5,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "138,55,176,103",
+                        "endColumns": "37,47,48,34",
+                        "endOffsets": "171,98,220,133"
                     },
                     "to": {
-                        "startLines": "110,111,120,121,122,139,165,178",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "5637,5677,6364,6410,6457,7620,9275,10131",
-                        "endColumns": "39,45,45,46,50,38,37,39",
-                        "endOffsets": "5672,5718,6405,6452,6503,7654,9308,10166"
+                        "startLines": "623,629,630,699",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "54762,55141,55189,59768",
+                        "endColumns": "37,47,48,34",
+                        "endOffsets": "54795,55184,55233,59798"
                     }
                 },
                 {
@@ -201,7 +201,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/styles.xml",
+                    "source": "/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,9,28,24,13,17,21",
                         "startColumns": "4,4,4,4,4,4,4",

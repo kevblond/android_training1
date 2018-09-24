@@ -2,79 +2,104 @@
 <instant-run
     abi="x86"
     api-level="21"
-    build-mode="HOT_WARM"
+    build-mode="FULL"
     density="420dpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1537780838302"
-    token="-3134465031448548465"
-    verifier="COMPATIBLE" >
+    timestamp="1537782427848"
+    token="-1709851159231489307"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1378" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="296" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="35" />
+        duration="240" />
     <task
         name="verifier"
-        duration="27" />
+        duration="230" />
 
     <artifact
-        location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/reload-dex/prod/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/instant-run-apk/prod/debug/app-prod-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1537780677217"
+        timestamp="1537782427848"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/dep/dependencies.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_2.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_1.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_0.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_3.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_9.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_5.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_4.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_6.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_8.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_7.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/split-apk/prod/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/instant-run-apk/prod/debug/app-prod-debug.apk"
+            location="/Users/kbl/Documents/workspace/AllAppliAndroid/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/instant-run-apk/prod/debug/app-prod-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1537780838302"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/reload-dex/prod/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
