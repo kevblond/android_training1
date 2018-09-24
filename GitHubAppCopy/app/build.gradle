@@ -2,6 +2,10 @@ apply plugin: 'com.android.application'
 apply plugin: 'realm-android'
 
 android {
+    signingConfigs {
+        config {
+        }
+    }
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.example.kbl.githubappcopy"

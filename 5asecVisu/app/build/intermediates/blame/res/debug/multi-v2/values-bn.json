@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
+            "outputFile": "/Users/kbl/Documents/workspace/ApplicationAndroid/5asecVisu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c3c149ffe24efea2b86a4b2a0664e95f/res/values-bn/values-bn.xml",

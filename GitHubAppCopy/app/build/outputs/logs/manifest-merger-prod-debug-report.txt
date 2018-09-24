@@ -1,168 +1,168 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-MERGED from [io.realm:realm-android-library:5.0.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.0.0.aar/57af3ccdc0a3c5e640b88175958035b7/AndroidManifest.xml:2:1-10:12
-MERGED from [com.android.support:design:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/58a1ad31d883c7504f45067838f257be/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9ce773614539aae83b0784646f485217/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/52e77ca8433a2d6ea227c5256f0a3742/AndroidManifest.xml:2:1-11:12
-MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.3.0.aar/2670cf85b488c842c02488290d2d4c86/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2aa217ccab60bc38c45ace42bcdbc4c6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/e3313dfc8ffa30d0782546e57d0d1438/AndroidManifest.xml:2:1-7:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:2:1-14:12
-MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/070b5fe7f627deed8bc93b6d4e050e8b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ff3112f700a0505408c72f5566e35ce4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a335242e0242ef8a22a7208aebf5efa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8436c1ecc409d4d5bebded16ad5507f1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/89d169a52dc6a20db9da414cc51a9888/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1820a0684334478b09ee95129c17b323/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c14ac36faaeee771d04e457fa751b214/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/dca8e952127b14b5db56521d4680387b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/63505cce080fd547b74a29839ca5b1e7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/eb22e29a9e3ca94f2fcd59b4c4e5b2d7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac7eb10912c2567c49ce621248ac814d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e42251cd72998b5433b12dc1103d5f96/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f4e8725c3f482c48f5d2dde254d96fc/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/511bb6956818e27af003293533b0679d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0f612b3c26d815cb3c1a1f67e532fdfd/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [io.realm:realm-android-library:5.0.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.0.0.aar/eb1f2569d91cc7bfd2a374087eb6c0b6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:design:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4675b80bf57b1fcb23ad839615368a4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3b6a0d0705e72436b73592ac63a799b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b497a99faa88659de9f0e2c58ef2214d/AndroidManifest.xml:2:1-11:12
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.3.0.aar/11d591e8cf764acfb40860ecb66e906c/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bc4730a864608bc1963e807047c5ef2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d8bdb0de8654ff4906510b07ca6517d1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:2:1-14:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/dbee63e185b21a4e72edca9726eb151f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6cf80442018029f9ed95e54b9ec20d82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8795f13802bed7368d34421c25444ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/05dd709dbc02d5d348a6599f081d9db3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fcb76685e56865b2a473c3020c702f83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a6edc332d668cda3171d17b4a1b46206/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3eac610f351ebb7e6fe7b873a2b599b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/aca9758151170e03f5cf3a111ba25e61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/73b00389750915bba26ed29e4f3252c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/dce108c833fe3828b4d0e39a17fedc20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd0a330a80223fa14b66c3083e67ac33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e0cb2d466fd0599830bf33806343585/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b8ee60a9e2e0b7afd13b456fe5455054/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afa4fe5996623ce8a39fadc044e395b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50b47799e021c3449b85eee6f2ef697a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:4:5-44
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:7:5-27:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/52e77ca8433a2d6ea227c5256f0a3742/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/52e77ca8433a2d6ea227c5256f0a3742/AndroidManifest.xml:9:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:7:5-12:19
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b497a99faa88659de9f0e2c58ef2214d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b497a99faa88659de9f0e2c58ef2214d/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:7:5-12:19
 	android:supportsRtl
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:15:9-59
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:15:9-59
 	tools:ignore
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:14:9-48
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:14:9-48
 	android:roundIcon
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:13:9-40
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:16:9-38
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:16:9-38
 activity#com.example.kbl.githubappcopy.view.view.LoginActivity
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:17:9-23:20
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:windowSoftInputMode
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:18:13-68
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:18:13-68
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:17:19-58
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:17:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:21:27-74
 activity#com.example.kbl.githubappcopy.view.view.MainActivity
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:24:9-59
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:24:9-59
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:24:19-57
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:24:19-57
 activity#com.example.kbl.githubappcopy.view.view.DetailActivity
-ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:26:9-62
+ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:26:9-62
 	android:name
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml:26:19-59
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml:26:19-59
 uses-sdk
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-MERGED from [io.realm:realm-android-library:5.0.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.0.0.aar/57af3ccdc0a3c5e640b88175958035b7/AndroidManifest.xml:6:5-8:41
-MERGED from [io.realm:realm-android-library:5.0.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.0.0.aar/57af3ccdc0a3c5e640b88175958035b7/AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:design:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/58a1ad31d883c7504f45067838f257be/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/58a1ad31d883c7504f45067838f257be/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9ce773614539aae83b0784646f485217/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9ce773614539aae83b0784646f485217/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/52e77ca8433a2d6ea227c5256f0a3742/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/52e77ca8433a2d6ea227c5256f0a3742/AndroidManifest.xml:5:5-7:41
-MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.3.0.aar/2670cf85b488c842c02488290d2d4c86/AndroidManifest.xml:8:5-10:41
-MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.3.0.aar/2670cf85b488c842c02488290d2d4c86/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2aa217ccab60bc38c45ace42bcdbc4c6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2aa217ccab60bc38c45ace42bcdbc4c6/AndroidManifest.xml:20:5-44
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/e3313dfc8ffa30d0782546e57d0d1438/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/e3313dfc8ffa30d0782546e57d0d1438/AndroidManifest.xml:5:5-43
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:5:5-44
-MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/070b5fe7f627deed8bc93b6d4e050e8b/AndroidManifest.xml:7:5-43
-MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/070b5fe7f627deed8bc93b6d4e050e8b/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:support-v4:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ff3112f700a0505408c72f5566e35ce4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ff3112f700a0505408c72f5566e35ce4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a335242e0242ef8a22a7208aebf5efa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/3a335242e0242ef8a22a7208aebf5efa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8436c1ecc409d4d5bebded16ad5507f1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8436c1ecc409d4d5bebded16ad5507f1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/89d169a52dc6a20db9da414cc51a9888/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/89d169a52dc6a20db9da414cc51a9888/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1820a0684334478b09ee95129c17b323/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1820a0684334478b09ee95129c17b323/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c14ac36faaeee771d04e457fa751b214/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c14ac36faaeee771d04e457fa751b214/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/dca8e952127b14b5db56521d4680387b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:exifinterface:27.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/dca8e952127b14b5db56521d4680387b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/63505cce080fd547b74a29839ca5b1e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/63505cce080fd547b74a29839ca5b1e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/eb22e29a9e3ca94f2fcd59b4c4e5b2d7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/eb22e29a9e3ca94f2fcd59b4c4e5b2d7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac7eb10912c2567c49ce621248ac814d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac7eb10912c2567c49ce621248ac814d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e42251cd72998b5433b12dc1103d5f96/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e42251cd72998b5433b12dc1103d5f96/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f4e8725c3f482c48f5d2dde254d96fc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f4e8725c3f482c48f5d2dde254d96fc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/511bb6956818e27af003293533b0679d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/511bb6956818e27af003293533b0679d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0f612b3c26d815cb3c1a1f67e532fdfd/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0f612b3c26d815cb3c1a1f67e532fdfd/AndroidManifest.xml:20:5-44
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.0.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.0.0.aar/eb1f2569d91cc7bfd2a374087eb6c0b6/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.0.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/realm-android-library-5.0.0.aar/eb1f2569d91cc7bfd2a374087eb6c0b6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4675b80bf57b1fcb23ad839615368a4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4675b80bf57b1fcb23ad839615368a4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3b6a0d0705e72436b73592ac63a799b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3b6a0d0705e72436b73592ac63a799b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b497a99faa88659de9f0e2c58ef2214d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/b497a99faa88659de9f0e2c58ef2214d/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.3.0.aar/11d591e8cf764acfb40860ecb66e906c/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.3.0.aar/11d591e8cf764acfb40860ecb66e906c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bc4730a864608bc1963e807047c5ef2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/bc4730a864608bc1963e807047c5ef2b/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d8bdb0de8654ff4906510b07ca6517d1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/d8bdb0de8654ff4906510b07ca6517d1/AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/dbee63e185b21a4e72edca9726eb151f/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/kbl/.gradle/caches/transforms-1/files-1.1/relinker-1.2.2.aar/dbee63e185b21a4e72edca9726eb151f/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6cf80442018029f9ed95e54b9ec20d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6cf80442018029f9ed95e54b9ec20d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8795f13802bed7368d34421c25444ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8795f13802bed7368d34421c25444ff1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/05dd709dbc02d5d348a6599f081d9db3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/05dd709dbc02d5d348a6599f081d9db3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fcb76685e56865b2a473c3020c702f83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/fcb76685e56865b2a473c3020c702f83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a6edc332d668cda3171d17b4a1b46206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a6edc332d668cda3171d17b4a1b46206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3eac610f351ebb7e6fe7b873a2b599b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3eac610f351ebb7e6fe7b873a2b599b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/aca9758151170e03f5cf3a111ba25e61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/aca9758151170e03f5cf3a111ba25e61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/73b00389750915bba26ed29e4f3252c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/73b00389750915bba26ed29e4f3252c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/dce108c833fe3828b4d0e39a17fedc20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/dce108c833fe3828b4d0e39a17fedc20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd0a330a80223fa14b66c3083e67ac33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd0a330a80223fa14b66c3083e67ac33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e0cb2d466fd0599830bf33806343585/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6e0cb2d466fd0599830bf33806343585/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b8ee60a9e2e0b7afd13b456fe5455054/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b8ee60a9e2e0b7afd13b456fe5455054/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afa4fe5996623ce8a39fadc044e395b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/afa4fe5996623ce8a39fadc044e395b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50b47799e021c3449b85eee6f2ef697a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kbl/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50b47799e021c3449b85eee6f2ef697a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		ADDED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/kbl/Documents/workspace/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/ef7879119d8ecb80739f31312bb201e6/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/kbl/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d1e2ed40b6f707005c87bc92f5f1fcce/AndroidManifest.xml:9:13-64

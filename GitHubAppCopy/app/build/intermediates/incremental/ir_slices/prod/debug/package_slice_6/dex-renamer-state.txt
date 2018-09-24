@@ -1,4 +1,4 @@
-#Mon Apr 30 11:45:46 CEST 2018
-base.0=/Users/kbl/Documents/workspace/GitHubAppCopy/app/build/intermediates/transforms/dexMerger/prod/debug/7
+#Mon Sep 24 11:18:01 CEST 2018
+base.0=/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/transforms/dexMerger/prod/debug/7
 path.0=classes.dex
 renamed.0=classes.dex

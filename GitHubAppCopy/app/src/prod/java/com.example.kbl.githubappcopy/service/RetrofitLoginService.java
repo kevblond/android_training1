@@ -21,7 +21,6 @@ public class RetrofitLoginService implements ILoginService {
     public void checkUser(final String token, final ServiceCallBack<String> callBack) {
         Log.d(TAG, "checkUserRetrofit");
         final RetrofitLoginServiceEndpoint apiService = RetrofitServiceGenerator.createRepositorieService(RetrofitLoginServiceEndpoint.class);
-
         Call<Owner> call = apiService.getOwner(token);
         call.enqueue(new Callback<Owner>() {
             @Override
@@ -30,21 +29,24 @@ public class RetrofitLoginService implements ILoginService {
                 if (response.isSuccessful()) {
                     Log.d(TAG, "checkUserRetrofit onResponse: user available");
                     Owner owner = response.body();
-                    if(Integer.valueOf(owner.getPublic_repos())>0){
+                    assert owner != null;
+                    if(Integer.valueOf(owner.getPublic_repos()) > 0) {
                         callBack.onSuccess(token);
                     } else{
                         callBack.onError(ErrorService.ERROR_EMPTY);
                     }
                 } else {
                     Log.d(TAG, "checkUserRetrofit onResponse: user unavailable");
-                    if(response.message().equals("Not Found")){
-                        callBack.onError(ErrorService.ERROR_USER);
-                    }
-                    else if(response.message().equals("Forbidden")){
-                        callBack.onError(ErrorService.ERROR_REQUEST);
-                    }
-                    else{
-                        callBack.onError(ErrorService.ERROR);
+                    switch (response.message()) {
+                        case "Not Found":
+                            callBack.onError(ErrorService.ERROR_USER);
+                            break;
+                        case "Forbidden":
+                            callBack.onError(ErrorService.ERROR_REQUEST);
+                            break;
+                        default:
+                            callBack.onError(ErrorService.ERROR);
+                            break;
                     }
                 }
             }

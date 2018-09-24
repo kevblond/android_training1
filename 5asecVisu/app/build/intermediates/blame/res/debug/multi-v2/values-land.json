@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/kbl/Documents/workspace/ApplicationAndroid/5asecVisu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/916942bf3c76df1370348a49aca7168d/res/values-land/values-land.xml",

@@ -58,8 +58,6 @@ public class MainActivity extends AbstractActivity<MainContract.Presenter> imple
         //initialization recyclerView
         mLayoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(mLayoutManager);
-//        DividerRepositories itemDecoration = new DividerRepositories(getResources().getDrawable(R.drawable.shape_black),true,true);
-//        DividerExample itemDecoration = new DividerExample(recyclerView.getContext());
         DividerFinal itemDecoration = new DividerFinal(Color.BLACK,20);
         recyclerView.addItemDecoration(itemDecoration);
 

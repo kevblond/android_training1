@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbl/Documents/workspace/GitHubAppCopy/app/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/Users/kbl/Documents/workspace/ApplicationAndroid/GitHubAppCopy/app/build/intermediates/incremental/mergeProdDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
-                    "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9ce773614539aae83b0784646f485217/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3b6a0d0705e72436b73592ac63a799b6/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ac7eb10912c2567c49ce621248ac814d/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd0a330a80223fa14b66c3083e67ac33/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

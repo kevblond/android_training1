@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbl/Documents/workspace/5asecVisu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/kbl/Documents/workspace/ApplicationAndroid/5asecVisu/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/Users/kbl/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/692711cb5835a677bb0dacb06fff43bc/res/values-v23/values-v23.xml",

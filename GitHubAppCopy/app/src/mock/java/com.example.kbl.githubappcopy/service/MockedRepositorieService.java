@@ -7,6 +7,7 @@ import com.example.kbl.githubappcopy.MyApplication;
 import com.example.kbl.githubappcopy.model.Repositorie;
 import com.example.kbl.githubappcopy.service.converter.RepositoriesDeserializer;
 import com.example.kbl.githubappcopy.service.enumError.ErrorService;
+import com.example.kbl.githubappcopy.utils.FileUtils;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
@@ -17,7 +18,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.lang.reflect.Type;
 import java.util.List;
-
 /**
  * Mocked service used for loading Json assets
  */
